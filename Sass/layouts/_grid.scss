@@ -1,0 +1,24 @@
+.nav-flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.grid-hero {
+  align-self: center;
+}
+
+.flex {
+  display: flex;
+  gap: 2.4rem;
+  align-items: center;
+}
+
+.flex-icons {
+  justify-content: space-evenly;
+}

@@ -1,0 +1,16 @@
+.hero {
+  max-width: 144rem;
+  margin: 0 auto;
+
+  &__img-box {
+    &__img {
+      border-radius: 3px;
+      height: 90%;
+      width: auto;
+    }
+  }
+}
+
+.link-logo {
+  height: 2.4rem;
+}
